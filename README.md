@@ -1,58 +1,138 @@
+<div align="center">
 
-# Hola, bienvenido a Bit-IO 👋.
+# Julio Y. Cárdenas
 
-![Portada de Bit-IO Learning](/img/BitIO.jpg)
+### Ingeniero en Electrónica · Maestría en Inteligencia Artificial
+**Ingeniería  · Matematicas  · Diseño 3D**
 
-[![](https://visitcount.itsvg.in/api?id=Bit-IO&icon=7&color=0)](https://visitcount.itsvg.in)
+<p>
+  <img src="https://img.shields.io/badge/Control-1F6FEB?style=for-the-badge" alt="Control"/>
+  <img src="https://img.shields.io/badge/Robótica-238636?style=for-the-badge" alt="Robótica"/>
+  <img src="https://img.shields.io/badge/Electrónica-0D1117?style=for-the-badge" alt="Electrónica"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-8957E5?style=for-the-badge" alt="RL"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="mailto:julioyaelcar@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Correo"/></a>
+</p>
 
+</div>
 
-Bit-IO es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
+---
 
-En Bit-IO, encontrarás una variedad de repositorios que te ayudarán a adquirir y mejorar tus habilidades en estos campos.
+## Bienvenida
 
+Este repositorio es un **centro de recursos abiertos** donde reúno minicursos, tutoriales, proyectos y robots que desarrollo y documento. El objetivo es que cualquier estudiante, aficionado o profesional pueda **aprender, replicar y construir** sobre ellos.
 
-## Nuestros Repositorios
+Todo el material busca ser claro, reproducible y con código funcional.
 
+---
 
-### ⚡ Electrónica desde cero ⚡
+## Sobre mí
 
-Este repositorio está diseñado para aquellos que están empezando en el mundo de la electrónica. Contiene tutoriales, ejemplos de proyectos y recursos útiles.
+Soy **ingeniero en Electrónica** y actualmente curso la **Maestría en Inteligencia Artificial**, con enfoque en **robótica**. Me especializo en **sistemas de control** y **aprendizaje por refuerzo (RL)**, uniendo la teoría de control clásica y moderna con métodos de aprendizaje para dotar de autonomía a sistemas físicos.
 
-<a href="https://github.com/Bit-IO/Aprende_electronica_desde_0" >Empezar a aprender</a>
+- Investigación e interés: control adaptativo y óptimo, RL aplicado a robots, simulación y *sim-to-real*
+- Trabajo práctico: diseño electrónico, sistemas embebidos y prototipado de robots
+- Ubicación: Xalapa, Veracruz, México
 
-### 🖥️ Programación desde cero 🖥️
+---
 
-Si estás interesado en aprender a programar, este repositorio es para ti. Ofrecemos tutoriales en varios lenguajes de programación y te guiamos a través de proyectos prácticos.
+## Contenido del repositorio
 
-<a href="https://github.com/Bit-IO/Aprende_programacion_desde_0" >Empezar a aprender</a>
+| Sección | Qué encontrarás |
+|:--|:--|
+| [**Minicursos**](./minicursos) | Cursos cortos y progresivos con teoría, ejercicios y código. |
+| [**Tutoriales**](./tutoriales) | Guías paso a paso sobre herramientas y técnicas específicas. |
+| [**Robots**](./robots) | Diseños, esquemáticos, firmware y software de los robots que construyo. |
+| [**Proyectos**](./proyectos) | Implementaciones completas de control, RL y electrónica. |
+| [**Recursos**](./recursos) | Lecturas, hojas de referencia, plantillas y enlaces recomendados. |
 
-### 🤖 Robótica desde cero 🤖
+---
 
-La robótica es un campo emocionante que combina la electrónica y la programación. En este repositorio, te enseñamos cómo construir tus propios robots desde cero.
+## Minicursos
 
-<a href="https://github.com/Bit-IO/Aprende_robotica_desde_0" >Empezar a aprender</a>
+| Minicurso | Nivel | Temas | Estado |
+|:--|:--:|:--|:--:|
+| [Fundamentos de Sistemas de Control](./minicursos/fundamentos-control) | Básico | Modelado, función de transferencia, respuesta temporal, PID | Disponible |
+| [Control en Espacio de Estados](./minicursos/espacio-de-estados) | Intermedio | Controlabilidad, observabilidad, LQR, observadores | En desarrollo |
+| [Introducción al Aprendizaje por Refuerzo](./minicursos/intro-rl) | Intermedio | MDP, Q-Learning, DQN, políticas | En desarrollo |
+| [RL para Control de Robots](./minicursos/rl-robotica) | Avanzado | PPO, SAC, simulación, *sim-to-real* | Próximamente |
 
-### Impresión 3D 🎲🧩♟ 
+> Los nombres y estados son un ejemplo inicial: edítalos conforme publiques tu material.
 
-En este repositorio encontraras: como funciona una impresora 3D, como diseñar tu propios proyectos, errores mas comunes y como solucionarlo, volviendote un experto en la impresin 3D.
+---
 
-<a href="https://github.com/Bit/Impresoras_3D_desde_0" >Empezar a aprender</a>
+## Tutoriales
 
-¡Esperamos que disfrutes y aprendas mucho en nuestro canal, Feliz aprendizaje!
+- **Electrónica y embebidos:** microcontroladores, sensores, actuadores, drivers de motor y diseño de PCB.
+- **Control:** sintonización de PID, identificación de sistemas, implementación en tiempo real.
+- **Robótica:** ROS 2, simulación en Gazebo, cinemática y navegación.
+- **Inteligencia artificial:** entornos con Gymnasium, entrenamiento con Stable-Baselines3 y PyTorch.
 
-## Contacto
+---
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de Instagram en <a href="https://www.instagram.com/electronica_bitio/" >@electronica_bitio</a>, o por el correo electronica.bitio@gmail.com.
+## Robots y proyectos
 
+| Proyecto | Descripción | Tecnologías |
+|:--|:--|:--|
+| [**Robot móvil con control PID**](./robots/robot-movil) | Plataforma diferencial con control de velocidad y odometría. | `C++` `ESP32` `PID` |
+| [**Péndulo invertido con RL**](./proyectos/pendulo-rl) | Estabilización comparando control clásico y aprendizaje por refuerzo. | `Python` `PyTorch` `Gymnasium` |
+| [**Brazo robótico**](./robots/brazo-robotico) | Cinemática inversa, control de trayectoria y simulación. | `ROS 2` `Python` `Gazebo` |
 
+---
 
+## Stack tecnológico
 
+**Lenguajes**
 
-### Tecnologías usadas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<p><img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,bash" alt="Lenguajes"/></p>
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+**Robótica, IA y plataformas**
 
+<p><img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,arduino,raspberrypi,linux" alt="Plataformas"/></p>
 
+**Herramientas**
+
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,kicad,latex,docker" alt="Herramientas"/></p>
+
+---
+
+## Ruta de aprendizaje sugerida
+
+1. **Bases:** electrónica y programación en Python/C++.
+2. **Control clásico:** modelado, estabilidad y PID.
+3. **Control moderno:** espacio de estados, LQR y observadores.
+4. **Aprendizaje por refuerzo:** fundamentos y algoritmos modernos.
+5. **Integración:** aplicar control y RL en robots simulados y reales.
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JulioYCardenas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioYCardenas&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes principales"/>
+
+</div>
+
+---
+
+## Colaboración y contacto
+
+Si encuentras un error, quieres proponer un tema o colaborar en un proyecto, puedes abrir un *issue*, enviar un *pull request* o escribirme directamente.
+
+- Correo: julioyaelcar@gmail.com
+
+Si este material te resulta útil, puedes apoyar dándole una estrella al repositorio.
+
+---
+
+<div align="center">
+
+*"Entender un sistema es poder controlarlo; construirlo es la mejor forma de entenderlo."*
+
+<img src="https://komarev.com/ghpvc/?username=JulioYCardenas&label=Visitas&color=1F6FEB&style=flat-square" alt="Visitas"/>
+
+</div>
