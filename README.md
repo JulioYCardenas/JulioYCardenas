@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/Reinforcement_Learning-8957E5?style=for-the-badge" alt="RL"/>
 </p>
 
-<p>
-  <a href="mailto:julioyaelcar@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Correo"/></a>
-</p>
-
 </div>
 
 ---
