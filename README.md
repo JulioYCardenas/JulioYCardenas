@@ -6,11 +6,11 @@
 **Ingeniería  · Matematicas  · Diseño 3D**
 
 <p>
-  <img src="https://img.shields.io/badge/Control-1F6FEB?style=for-the-badge" alt="Control"/>
-  <img src="https://img.shields.io/badge/Robótica-238636?style=for-the-badge" alt="Robótica"/>
-  <img src="https://img.shields.io/badge/Electrónica-0D1117?style=for-the-badge" alt="Electrónica"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-8957E5?style=for-the-badge" alt="RL"/>
-  <img src="https://img.shields.io/badge/Impresión_3D-8957E5?style=for-the-badge" alt="Impresion3D"/>
+  <img src="https://img.shields.io/badge/Control-003049?style=for-the-badge" alt="Control"/>
+  <img src="https://img.shields.io/badge/Robótica-d62828?style=for-the-badge" alt="Robótica"/>
+  <img src="https://img.shields.io/badge/Electrónica-3a5a40?style=for-the-badge" alt="Electrónica"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-0081a7?style=for-the-badge" alt="RL"/>
+  <img src="https://img.shields.io/badge/Impresión_3D-540B0E?style=for-the-badge" alt="Impresion3D"/>
 </p>
 
 </div>
