@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Robótica-238636?style=for-the-badge" alt="Robótica"/>
   <img src="https://img.shields.io/badge/Electrónica-0D1117?style=for-the-badge" alt="Electrónica"/>
   <img src="https://img.shields.io/badge/Reinforcement_Learning-8957E5?style=for-the-badge" alt="RL"/>
+  <img src="https://img.shields.io/badge/Impresión_3D-8957E5?style=for-the-badge" alt="Impresion3D"/>
 </p>
 
 </div>
