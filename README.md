@@ -71,17 +71,49 @@ Soy **ingeniero en Electrónica** y actualmente curso la **Maestría en Intelige
 
 ## Stack tecnológico
 
+## 🛠️ Tecnologías
+
 **Lenguajes**
 
-<p><img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,bash" alt="Lenguajes"/></p>
+<p><img src="https://skillicons.dev/icons?i=py,cpp,c,matlab" alt="Lenguajes"/></p>
 
-**Robótica, IA y plataformas**
+**Inteligencia artificial y ciencia de datos**
 
-<p><img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,arduino,raspberrypi,linux" alt="Plataformas"/></p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas,jupyter" alt="IA"/></p>
+
+**Electrónica y sistemas embebidos**
+
+<p><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Electrónica"/></p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</p>
+
+**Robótica**
+
+<p><img src="https://skillicons.dev/icons?i=ros,opencv,cpp,py" alt="Robótica"/></p>
+
+<p>
+  <img src="https://img.shields.io/badge/ROS_1-Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 1"/>
+  <img src="https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+  <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge" alt="Gazebo"/>
+  <img src="https://img.shields.io/badge/RViz-5C2D91?style=for-the-badge" alt="RViz"/>
+</p>
+
+**Diseño CAD e impresión 3D**
+
+<p>
+  <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/>
+  <img src="https://img.shields.io/badge/Impresi%C3%B3n_3D-FF6600?style=for-the-badge" alt="Impresión 3D"/>
+</p>
+
+**Sistemas operativos y terminal**
+
+<p><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,vim,bash" alt="Sistemas"/></p>
 
 **Herramientas**
 
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,kicad,latex,docker" alt="Herramientas"/></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,latex,docker,cmake" alt="Herramientas"/></p>
 
 ---
 
