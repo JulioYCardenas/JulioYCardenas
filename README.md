@@ -42,25 +42,12 @@ Soy **ingeniero en Electrónica** y actualmente curso la **Maestría en Intelige
 
 | Sección | Qué encontrarás |
 |:--|:--|
-| [**Minicursos**](./minicursos) | Cursos cortos y progresivos con teoría, ejercicios y código. |
-| [**Tutoriales**](./tutoriales) | Guías paso a paso sobre herramientas y técnicas específicas. |
-| [**Robots**](./robots) | Diseños, esquemáticos, firmware y software de los robots que construyo. |
+| [**Electrónica**](./electrónica) | Electrónica digital, analogica y microcontroladores. |
+| [**Robótica**](./robotica) | ROS2 (Gazebo, RVIZ), Sensores, actuadores. |
+| [**Programación**](./programación) | Python, C++, algoritmos, I.A. |
 | [**Proyectos**](./proyectos) | Implementaciones completas de control, RL y electrónica. |
+| [**Impresión 3D**](./impresion3d) | CAD, tips de impresión, modelos. |
 | [**Recursos**](./recursos) | Lecturas, hojas de referencia, plantillas y enlaces recomendados. |
-
----
-
-## Minicursos
-
-| Minicurso | Nivel | Temas | Estado |
-|:--|:--:|:--|:--:|
-| [Fundamentos de Sistemas de Control](./minicursos/fundamentos-control) | Básico | Modelado, función de transferencia, respuesta temporal, PID | Disponible |
-| [Control en Espacio de Estados](./minicursos/espacio-de-estados) | Intermedio | Controlabilidad, observabilidad, LQR, observadores | En desarrollo |
-| [Introducción al Aprendizaje por Refuerzo](./minicursos/intro-rl) | Intermedio | MDP, Q-Learning, DQN, políticas | En desarrollo |
-| [RL para Control de Robots](./minicursos/rl-robotica) | Avanzado | PPO, SAC, simulación, *sim-to-real* | Próximamente |
-
-> Los nombres y estados son un ejemplo inicial: edítalos conforme publiques tu material.
-
 ---
 
 ## Tutoriales
@@ -77,7 +64,7 @@ Soy **ingeniero en Electrónica** y actualmente curso la **Maestría en Intelige
 | Proyecto | Descripción | Tecnologías |
 |:--|:--|:--|
 | [**Robot móvil con control PID**](./robots/robot-movil) | Plataforma diferencial con control de velocidad y odometría. | `C++` `ESP32` `PID` |
-| [**Péndulo invertido con RL**](./proyectos/pendulo-rl) | Estabilización comparando control clásico y aprendizaje por refuerzo. | `Python` `PyTorch` `Gymnasium` |
+| [**Sintonización con RL**](./proyectos/pendulo-rl) | Estabilización comparando control clásico y aprendizaje por refuerzo. | `Python` `PyTorch` `Gymnasium` |
 | [**Brazo robótico**](./robots/brazo-robotico) | Cinemática inversa, control de trayectoria y simulación. | `ROS 2` `Python` `Gazebo` |
 
 ---
